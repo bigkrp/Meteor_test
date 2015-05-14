@@ -8,3 +8,9 @@ meteor-platform
 autopublish
 insecure
 iron:router
+less
+nemo64:bootstrap
+mrt:bootstrap-3
+accounts-ui
+accounts-password
+accounts-google
